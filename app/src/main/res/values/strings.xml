@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomBindingAdapters</string>
+    <string name="increment">count runner</string>
+    <string name="badge">Well Done!</string>
+    <string name="bronze">Great Work!</string>
+    <string name="silver">Excellent!</string>
+    <string name="gold">Outstanding!</string>
+    <string name="start">Begin</string>
+</resources>
