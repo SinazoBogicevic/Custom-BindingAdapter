@@ -1,7 +1,7 @@
 # Custom-BindingAdapter
 <h3></h3><br/>
 
-<p font-style="italics">Before learning about creating your own binding adapters, you need to have a good understanding of how data binding works</p>
+**Before learning about creating your own binding adapters, you need to have a good understanding of how data binding works**
 
 <p>pre-existing binding adapters are pretty much called everytime we use binding however to make our code more robust
   we can create our own custom binding adapters.
@@ -10,7 +10,7 @@
 <p>custom binding adapters are great because they help us to avoid making many framework calls in the activity. 
   This really helps to reduce boilerplate code</p>
   
-  <h3>Wha's in the app</h3>
+  <h3>What's in the app</h3>
   <p>The app is a simple counter that changes the heading and tint of the drawable depending on the counters value</p>
 
 | Gold screen     | Silver screen     | Bronze screen     | Badge screen     |
